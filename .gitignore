@@ -1,0 +1,39 @@
+# Python
+env-pymongo-fastapi-crud
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI
+*.db
+*.sqlite3
+*.log
+instance/
+.webassets-cache
+
+# MongoDB
+*.mongodb
+*.json
+*.csv
+*.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
